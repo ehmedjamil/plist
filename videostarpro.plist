@@ -17,7 +17,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>https://ittza7aa.com/aseets/icon/videostarpro.png/string>
+<string>https://ittza7aa.com/aseets/icon/videostar.png</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -25,13 +25,13 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>https://ittza7aa.com/aseets/icon/videostarpro.png</string>
+<string>https://ittza7aa.com/aseets/icon/videostar.png</string>
 </dict>
 </array>
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>com.kurdstore.ittza7aapro</string>
+<string>com.kurdstore.ittza7aa</string>
 <key>bundle-version</key>
 <string>8.3.2</string>
 <key>kind</key>
@@ -39,7 +39,7 @@
 <key>subtitle</key>
 <string>BSOF Team</string>
 <key>title</key>
-<string>Video Star Pro</string>
+<string>Video Star Hack</string>
 </dict>
 </dict>
 </array>
