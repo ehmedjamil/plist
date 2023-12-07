@@ -9,7 +9,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://pub-f71f01453dca433b9adca7f194c5bcbe.r2.dev/893322816/f4ba9ddd-96de-4557-bfe3-ea7e0985a849.ipa.3.2.ipa</string>
+<string>https://is.gd/AC9yfC</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -17,7 +17,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>https://ittza7aa.com/aseets/icon/videostar.png</string>
+<string>https://ittza7aa.com/aseets/free.JPG</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -25,21 +25,21 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>https://ittza7aa.com/aseets/icon/videostar.png</string>
+<string>https://ittza7aa.com/aseets/free.JPG</string>
 </dict>
 </array>
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>com.kurdstore.ittza7aa</string>
+<string>science.xnu.undecimus</string>
 <key>bundle-version</key>
-<string>8.3.2</string>
+<string>1.1.1</string>
 <key>kind</key>
 <string>software</string>
 <key>subtitle</key>
-<string>BSOF Team</string>
+<string>ittza7aa free</string>
 <key>title</key>
-<string>Video Star Hack</string>
+<string>Unc0ver</string>
 </dict>
 </dict>
 </array>
