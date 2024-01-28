@@ -9,7 +9,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://app.ittza7aa.com/1min+_1.9.ipa</string>
+<string>https://archive.org/download/snapchat-2-12.69.0/Snapchat2_12.69.0.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -31,7 +31,7 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>oneMinPlus.pp.ipa</string>
+<string>com.toyopagroup.picaboo.2</string>
 <key>bundle-version</key>
 <string>8.3.2</string>
 <key>kind</key>
