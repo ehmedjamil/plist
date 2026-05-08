@@ -9,7 +9,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://github.com/ehmedjamil/plist/releases/download/ipaforinstall/Snapchat.Gold_12.63.0.ipa</string>
+<string>https://github.com/ehmedjamil/plist/releases/download/ipaforinstall/Snapchat+.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -31,7 +31,7 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>com.toyopagroup.picaboo2plus</string>
+<string>com.ittza7aa.picaboo</string>
 <key>bundle-version</key>
 <string>1.1.1</string>
 <key>kind</key>
@@ -39,7 +39,7 @@
 <key>subtitle</key>
 <string>ittza7aa free</string>
 <key>title</key>
-<string>Snapchat+</string>
+<string>Snapchat++</string>
 </dict>
 </dict>
 </array>
