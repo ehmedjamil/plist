@@ -9,7 +9,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://vps.ittzpasha.xyz/ipa/first/14.esign.ipa</string>
+<string>https://github.com/ehmedjamil/plist/releases/download/ipaforinstall/ESign.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -17,7 +17,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>https://ittza7aa.com/aseets/free.JPG</string>
+<string>https://ittza7aa.com/wp-content/uploads/2026/01/ESignLogo200.png</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -31,7 +31,7 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>ittza7aa.kurdstore.esign</string>
+<string>p3.ittza7aa.esign</string>
 <key>bundle-version</key>
 <string>1.1.1</string>
 <key>kind</key>
